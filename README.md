@@ -4,4 +4,4 @@ This project is a practical implementation of Djikstra algorithm with a visual r
 
 Live site link : https://travel-path-optimizer.netlify.app/
 
-<img src=''>
+<img src='/images/before.jpeg'>
